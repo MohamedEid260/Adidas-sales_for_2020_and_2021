@@ -62,8 +62,8 @@ A dynamic and interactive sales dashboard built using **Microsoft Excel** to ana
 
 ## 📬 Contact
 
-**Your Name**  
-📧 your.email@example.com  
+Mohamed Ahmed Eid
+📧 mohamed.eid.ntss@gmail.com  
 🔗 [http://linkedin.com/in/mohamed-eid-27a63b341]
 
 ---
